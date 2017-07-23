@@ -1,0 +1,11 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Cruft
+.DS_Store
+npm-debug.log
+notes.md
